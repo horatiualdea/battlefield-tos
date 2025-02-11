@@ -1,5 +1,6 @@
 # Ignore credentials and token files
 token.pickle
+token.json
 client_secret.json
 
 # Ignore videos and generated files
