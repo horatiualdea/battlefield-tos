@@ -1,0 +1,23 @@
+# Ignore credentials and token files
+token.pickle
+client_secret.json
+
+# Ignore videos and generated files
+videos_to_post/
+posted_videos/
+*.mp4
+
+# Ignore the upload log
+upload_log.json
+
+# Ignore IDE and OS-specific files
+.vscode/
+.idea/
+*.log
+*.bak
+*.swp
+
+# Ignore temporary files
+*.tmp
+*.DS_Store
+Thumbs.db
